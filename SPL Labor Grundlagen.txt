@@ -7,4 +7,7 @@ Versionskontrolle
 Git-Grundlagen
 Python-Grundlagen
 
-Tools für SW-Development
+Tools für SW-Development:       
+cmder
+python
+visual studio code
