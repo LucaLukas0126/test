@@ -1,4 +1,10 @@
 28.05.2018
 SPL
 Luca Lukas
-neue Version 14:44
+
+Inhalte:
+Versionskontrolle
+Git-Grundlagen
+Python-Grundlagen
+
+Tools für SW-Development
